@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Main {
 
     /**
-     * @param grid denotes a 2D integer array containing the size of the grid (values for rows and columns)
+     * @param grid denotes a 2D integer array containing
+     *             the size of the grid (values for rows and columns)
      * @return an integer array containing the answers
      */
     public static int[] solve(int[][] grid) {
