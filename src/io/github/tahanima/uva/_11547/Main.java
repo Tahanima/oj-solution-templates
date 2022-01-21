@@ -3,6 +3,7 @@ package io.github.tahanima.uva._11547;
 import java.util.Scanner;
 
 public class Main {
+
     /**
      * Returns the answers to the skill testing questions.
      *
@@ -25,6 +26,7 @@ public class Main {
             number[cases] = scanner.nextInt();
 
         int[] answer = solve(number);
+
         for (int n: answer)
             stringBuilder.append(String.format("%d%n", n));
 
