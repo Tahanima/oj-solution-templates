@@ -12,7 +12,7 @@ public class Main {
         return new int[0];
     }
 
-    /*
+    /**
      * Takes care of the problem's input and output.
      */
     public static void main(String[] args) {
