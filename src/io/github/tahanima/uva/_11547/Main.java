@@ -10,6 +10,8 @@ public class Main {
      * @param number denotes the skill testing questions
      */
     public static int[] solve(int[] number) {
+        // Implement this method
+
         return new int[0];
     }
 
