@@ -5,9 +5,8 @@ import java.util.Scanner;
 public class Main {
 
     /**
-     * Returns the answers to the skill testing questions.
-     *
-     * @param number denotes the skill testing questions
+     * @param number denotes an integer array containing the skill testing questions
+     * @return an integer array containing the answers
      */
     public static int[] solve(int[] number) {
         // Implement this method
@@ -24,13 +23,15 @@ public class Main {
         int testCases = scanner.nextInt();
         int[] number = new int[testCases];
 
-        for (int cases = 0; cases < testCases; cases++)
+        for (int cases = 0; cases < testCases; cases++) {
             number[cases] = scanner.nextInt();
+        }
 
         int[] answer = solve(number);
 
-        for (int n: answer)
+        for (int n: answer) {
             stringBuilder.append(String.format("%d%n", n));
+        }
 
         System.out.print(stringBuilder);
     }
