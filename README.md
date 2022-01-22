@@ -39,5 +39,10 @@ A repository containing solution templates for problems of various automated onl
             <td>Etruscan Warriors Never Play Chess</td>
             <td><a href="/src/io/github/tahanima/uva/_11614/Main.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>11727</td>
+            <td>Cost Cutting</td>
+            <td><a href="/src/io/github/tahanima/uva/_11727/Main.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
