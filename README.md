@@ -25,6 +25,11 @@ A repository containing solution templates for problems of various automated onl
             <td><a href="/src/io/github/tahanima/uva/_11044/Main.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>11172</td>
+            <td>Relational Operator</td>
+            <td><a href="/src/io/github/tahanima/uva/_11172/Main.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>11547</td>
             <td>Automatic Answer</td>
             <td><a href="/src/io/github/tahanima/uva/_11547/Main.java">[Link]</a></td>
