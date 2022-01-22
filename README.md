@@ -10,6 +10,11 @@ A repository containing solution templates for problems of various automated onl
             <th>Solution Template</th>
         </tr>
         <tr>
+            <td>401</td>
+            <td>Palindromes</td>
+            <td><a href="/src/io/github/tahanima/uva/_401/Main.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>1124</td>
             <td>Celebrity jeopardy</td>
             <td><a href="/src/io/github/tahanima/uva/_1124/Main.java">[Link]</a></td>
