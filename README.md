@@ -45,6 +45,11 @@ A repository containing solution templates for problems of various automated onl
             <td><a href="/src/io/github/tahanima/uva/_11727/Main.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>12250</td>
+            <td>Language Detection</td>
+            <td><a href="/src/io/github/tahanima/uva/_12250/Main.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>13025</td>
             <td>Back to the Past</td>
             <td><a href="/src/io/github/tahanima/uva/_13025/Main.java">[Link]</a></td>
