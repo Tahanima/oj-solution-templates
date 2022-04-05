@@ -14,6 +14,11 @@ A repository containing solution templates for problems of various automated onl
             <td>Email Reminders</td>
             <td><a href="/src/io/github/tahanima/codechef/emailrem/Main.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>VOLCONTROL</td>
+            <td>Volume Control</td>
+            <td><a href="/src/io/github/tahanima/codechef/volcontrol/Main.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
 
