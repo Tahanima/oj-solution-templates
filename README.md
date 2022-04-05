@@ -2,7 +2,7 @@
 A repository containing solution templates for problems of various automated online judges.
 
 <details>
-    <summary><b>UVa</b></summary>
+    <summary><b>CodeChef</b></summary>
     <table>
         <tr>
             <th>#</th>
