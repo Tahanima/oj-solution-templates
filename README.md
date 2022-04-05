@@ -10,6 +10,22 @@ A repository containing solution templates for problems of various automated onl
             <th>Solution Template</th>
         </tr>
         <tr>
+            <td>EMAILREM</td>
+            <td>Email Reminders</td>
+            <td><a href="/src/io/github/tahanima/codechef/emailrem/Main.java">[Link]</a></td>
+        </tr>
+    </table>
+</details>
+
+<details>
+    <summary><b>UVa</b></summary>
+    <table>
+        <tr>
+            <th>#</th>
+            <th>Problem Title</th>
+            <th>Solution Template</th>
+        </tr>
+        <tr>
             <td>401</td>
             <td>Palindromes</td>
             <td><a href="/src/io/github/tahanima/uva/_401/Main.java">[Link]</a></td>
