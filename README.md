@@ -65,6 +65,11 @@ public class Main {
             <th>Solution Template</th>
         </tr>
         <tr>
+            <td>CREDSCORE</td>
+            <td>Credit score</td>
+            <td><a href="/src/io/github/tahanima/codechef/credscore/Main.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>EMAILREM</td>
             <td>Email Reminders</td>
             <td><a href="/src/io/github/tahanima/codechef/emailrem/Main.java">[Link]</a></td>
