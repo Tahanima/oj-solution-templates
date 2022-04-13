@@ -65,6 +65,11 @@ public class Main {
             <th>Solution Template</th>
         </tr>
         <tr>
+            <td>COURSEREG</td>
+            <td>Course Registration</td>
+            <td><a href="/src/io/github/tahanima/codechef/coursereg/Main.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>CREDSCORE</td>
             <td>Credit score</td>
             <td><a href="/src/io/github/tahanima/codechef/credscore/Main.java">[Link]</a></td>

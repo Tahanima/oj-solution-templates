@@ -38,7 +38,7 @@ public class Main {
         ArrayList<Integer> answers = solve(n, m);
 
         for (int answer: answers) {
-            stringBuilder.append(String.format("%s%n", answer));
+            stringBuilder.append(String.format("%d%n", answer));
         }
 
         System.out.print(stringBuilder);
