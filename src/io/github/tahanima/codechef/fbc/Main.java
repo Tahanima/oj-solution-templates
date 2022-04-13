@@ -8,6 +8,7 @@ import java.util.Scanner;
  */
 
 public class Main {
+
     /**
      * @param k denotes the capacities of buckets
      * @param x denotes the amounts of water already filled up

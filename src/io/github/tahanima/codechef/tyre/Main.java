@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @author tahanima
  */
 public class Main {
+
     /**
      * @param n denotes the number of bikes
      * @param m denotes the number of cars
