@@ -85,6 +85,11 @@ public class Main {
             <td><a href="/src/io/github/tahanima/codechef/fbc/Main.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>INCRIQ</td>
+            <td>Increase IQ</td>
+            <td><a href="/src/io/github/tahanima/codechef/incriq/Main.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>INSTNOODLE</td>
             <td>Chef and Instant Noodles</td>
             <td><a href="/src/io/github/tahanima/codechef/instnoodle/Main.java">[Link]</a></td>
