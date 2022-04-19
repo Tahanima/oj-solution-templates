@@ -105,6 +105,11 @@ public class Main {
             <td><a href="/src/io/github/tahanima/codechef/jcoins/Main.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>NOTEBOOK</td>
+            <td>Count the Notebooks</td>
+            <td><a href="/src/io/github/tahanima/codechef/notebook/Main.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>TYRE</td>
             <td>Tyre problem</td>
             <td><a href="/src/io/github/tahanima/codechef/tyre/Main.java">[Link]</a></td>
