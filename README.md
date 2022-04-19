@@ -100,6 +100,11 @@ public class Main {
             <td><a href="/src/io/github/tahanima/codechef/instnoodle/Main.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>JCOINS</td>
+            <td>Janmansh and Coins</td>
+            <td><a href="/src/io/github/tahanima/codechef/jcoins/Main.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>TYRE</td>
             <td>Tyre problem</td>
             <td><a href="/src/io/github/tahanima/codechef/tyre/Main.java">[Link]</a></td>
