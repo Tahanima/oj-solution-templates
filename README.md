@@ -57,6 +57,27 @@ public class Main {
 ## Available Templates
 
 <details>
+    <summary><b>beecrowd</b></summary>
+    <table>
+        <tr>
+            <th>#</th>
+            <th>Problem Title</th>
+            <th>Solution Template</th>
+        </tr>
+        <tr>
+            <td>1000</td>
+            <td>Hello World!</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1000/Main.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>1001</td>
+            <td>Extremely Basic</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1001/Main.java">[Link]</a></td>
+        </tr>
+    </table>
+</details>
+
+<details>
     <summary><b>CodeChef</b></summary>
     <table>
         <tr>
