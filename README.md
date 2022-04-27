@@ -94,6 +94,11 @@ public class Main {
             <td>Average 1</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1005/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1006</td>
+            <td>Average 2</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1006/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
