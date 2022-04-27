@@ -89,6 +89,11 @@ public class Main {
             <td>Simple Product</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1004/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1005</td>
+            <td>Average 1</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1005/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
