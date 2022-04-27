@@ -84,6 +84,11 @@ public class Main {
             <td>Simple Sum</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1003/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1004</td>
+            <td>Simple Product</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1004/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
