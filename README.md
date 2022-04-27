@@ -74,6 +74,11 @@ public class Main {
             <td>Extremely Basic</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1001/Main.java">[Link]</a></td>
         </tr>
+       <tr>
+            <td>1002</td>
+            <td>Area of a Circle</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1002/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
