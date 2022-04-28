@@ -107,6 +107,11 @@ public class Main {
             <td>Difference</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1007/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1008</td>
+            <td>Salary</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1008/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
