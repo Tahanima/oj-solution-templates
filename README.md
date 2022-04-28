@@ -117,6 +117,11 @@ public class Main {
             <td>Salary with Bonus</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1009/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1011</td>
+            <td>Sphere</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1011/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
