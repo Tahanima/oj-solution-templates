@@ -1,9 +1,9 @@
-# OJ Problem Templates
+# OJ Solution Templates
 A repository containing solution templates for problems of various automated online judges.
 
 ## Project Structure
 ```
-oj-problem-templates/
+oj-solution-templates/
 ├─ .gitignore
 ├─ README.md
 ├─ src/
@@ -19,10 +19,10 @@ oj-problem-templates/
 
 ## Usage
 
-1. Get a copy of [oj-problem-templates](https://github.com/Tahanima/oj-problem-templates) by clicking the <kbd><b>Fork</b></kbd> button.
+1. Get a copy of [oj-solution-templates](https://github.com/Tahanima/oj-solution-templates) by clicking the <kbd><b>Fork</b></kbd> button.
 2. Clone, i.e, download your copy of the repository to your local machine using
 ```bash
-git clone https://github.com/[your_username]/oj-problem-templates.git
+git clone https://github.com/[your_username]/oj-solution-templates.git
 ```
 3. Open the project in [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 4. Code the solution for your preferred problem.
