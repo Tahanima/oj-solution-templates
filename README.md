@@ -130,6 +130,11 @@ public class Main {
             <td>The Greatest</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1013/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1014</td>
+            <td>Consumption</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1014/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
