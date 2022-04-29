@@ -14,9 +14,7 @@ oj-problem-templates/
                ├─ ...
             ├─ uva/
                ├─ ...
-            .
-            .
-            .
+            ...
 ```
 
 ## Usage
@@ -121,6 +119,11 @@ public class Main {
             <td>1011</td>
             <td>Sphere</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1011/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
+            <td>1012</td>
+            <td>Area</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1012/Main.java">[Link]</a></td>
        </tr>
     </table>
 </details>
