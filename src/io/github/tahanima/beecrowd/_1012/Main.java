@@ -9,8 +9,8 @@ public class Main {
 
     /**
      * @param a denotes the first floating point number
-     * @param b denotes the first floating point number
-     * @param c denotes the first floating point number
+     * @param b denotes the second floating point number
+     * @param c denotes the third floating point number
      * @return a string containing the answer
      */
     public static String solve(double a, double b, double c) {
