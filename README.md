@@ -140,6 +140,11 @@ public class Main {
             <td>Distance Between Two Points</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1015/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1016</td>
+            <td>Distance</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1016/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
