@@ -135,6 +135,11 @@ public class Main {
             <td>Consumption</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1014/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1015</td>
+            <td>Distance Between Two Points</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1015/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
