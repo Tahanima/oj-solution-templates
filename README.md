@@ -150,6 +150,21 @@ public class Main {
             <td>Fuel Spent</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1017/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1018</td>
+            <td>Banknotes</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1018/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
+            <td>1019</td>
+            <td>Time Conversion</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1019/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
+            <td>1020</td>
+            <td>Age in Days</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1020/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
