@@ -185,6 +185,11 @@ public class Main {
             <td>Interval</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1037/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1038</td>
+            <td>Snack</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1038/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
