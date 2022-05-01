@@ -165,6 +165,16 @@ public class Main {
             <td>Age in Days</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1020/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1021</td>
+            <td>Banknotes and Coins</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1021/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
+            <td>1035</td>
+            <td>Selection Test 1</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1035/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
