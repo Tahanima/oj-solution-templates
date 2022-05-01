@@ -180,6 +180,11 @@ public class Main {
             <td>Bhaskara's Formula</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1036/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1037</td>
+            <td>Interval</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1037/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
