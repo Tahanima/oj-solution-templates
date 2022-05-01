@@ -116,6 +116,11 @@ public class Main {
             <td><a href="/src/io/github/tahanima/beecrowd/_1009/Main.java">[Link]</a></td>
        </tr>
        <tr>
+            <td>1010</td>
+            <td>Simple Calculate</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1010/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
             <td>1011</td>
             <td>Sphere</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1011/Main.java">[Link]</a></td>
