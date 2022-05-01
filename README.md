@@ -175,6 +175,11 @@ public class Main {
             <td>Selection Test 1</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1035/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1036</td>
+            <td>Bhaskara's Formula</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1036/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
