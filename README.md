@@ -200,6 +200,11 @@ public class Main {
             <td>Simple Sort</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1042/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1044</td>
+            <td>Multiples</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1044/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
