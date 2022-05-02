@@ -195,6 +195,11 @@ public class Main {
             <td>Snack</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1038/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1042</td>
+            <td>Simple Sort</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1042/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
