@@ -210,6 +210,11 @@ public class Main {
             <td>Month</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1052/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1059</td>
+            <td>Even Numbers</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1059/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
