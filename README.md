@@ -205,6 +205,11 @@ public class Main {
             <td>Multiples</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1044/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1052</td>
+            <td>Month</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1052/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
