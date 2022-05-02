@@ -215,6 +215,11 @@ public class Main {
             <td>Even Numbers</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1059/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1067</td>
+            <td>Odd Numbers</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1067/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
