@@ -230,6 +230,11 @@ public class Main {
             <td>Six Odd Numbers</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1070/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1071</td>
+            <td>Sum of Consecutive Odd Numbers I</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1071/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
