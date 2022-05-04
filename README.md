@@ -235,6 +235,11 @@ public class Main {
             <td>Sum of Consecutive Odd Numbers I</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1071/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1073</td>
+            <td>Even Square</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1073/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
