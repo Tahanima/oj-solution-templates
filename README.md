@@ -240,6 +240,26 @@ public class Main {
             <td>Even Square</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1073/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1095</td>
+            <td>Sequence IJ 1</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1095/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
+            <td>1096</td>
+            <td>Sequence IJ 2</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1096/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
+            <td>1097</td>
+            <td>Sequence IJ 3</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1097/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
+            <td>1098</td>
+            <td>Sequence IJ 4</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1098/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
