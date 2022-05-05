@@ -9,7 +9,7 @@ public class Main {
 
     /**
      * @param n denotes the number
-     * @return an integer containing the answer
+     * @return a string containing the answer
      */
     public static String solve(int n) {
         // Implement this method
