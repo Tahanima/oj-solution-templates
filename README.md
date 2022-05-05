@@ -275,6 +275,11 @@ public class Main {
             <td>Logical Sequence</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1144/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1145</td>
+            <td>Logical Sequence 2</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1145/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
