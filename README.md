@@ -270,6 +270,11 @@ public class Main {
             <td>Squared and Cubic</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1143/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1144</td>
+            <td>Logical Sequence</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1144/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
