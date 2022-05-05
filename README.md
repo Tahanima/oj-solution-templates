@@ -260,6 +260,16 @@ public class Main {
             <td>Sequence IJ 4</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1098/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1132</td>
+            <td>Multiples of 13</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1132/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
+            <td>1143</td>
+            <td>Squared and Cubic</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1143/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
