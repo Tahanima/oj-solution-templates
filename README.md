@@ -290,6 +290,11 @@ public class Main {
             <td>Easy Fibonacci</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1151/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1153</td>
+            <td>Simple Factorial</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1153/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
