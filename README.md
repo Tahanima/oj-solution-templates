@@ -295,6 +295,11 @@ public class Main {
             <td>Simple Factorial</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1153/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1154</td>
+            <td>Ages</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1154/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
