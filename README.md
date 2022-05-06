@@ -285,6 +285,11 @@ public class Main {
             <td>Summing Consecutive Integers</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1149/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1151</td>
+            <td>Easy Fibonacci</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1151/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
