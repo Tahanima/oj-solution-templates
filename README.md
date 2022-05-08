@@ -300,6 +300,11 @@ public class Main {
             <td>Ages</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1154/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1155</td>
+            <td>S Sequence</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1155/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
