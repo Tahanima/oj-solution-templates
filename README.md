@@ -305,6 +305,16 @@ public class Main {
             <td>S Sequence</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1155/Main.java">[Link]</a></td>
        </tr>
+       <tr>
+            <td>1156</td>
+            <td>S Sequence II</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1156/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
+            <td>1180</td>
+            <td>Lowest Number and Position</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1180/Main.java">[Link]</a></td>
+       </tr>
     </table>
 </details>
 
