@@ -316,6 +316,11 @@ public class Main {
             <td><a href="/src/io/github/tahanima/beecrowd/_1157/Main.java">[Link]</a></td>
        </tr>
        <tr>
+            <td>1165</td>
+            <td>Prime Number</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1165/Main.java">[Link]</a></td>
+       </tr>
+       <tr>
             <td>1180</td>
             <td>Lowest Number and Position</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1180/Main.java">[Link]</a></td>
