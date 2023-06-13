@@ -1,6 +1,7 @@
 package io.github.tahanima.codechef.tyre;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -11,22 +12,19 @@ public class Main {
     /**
      * @param n denotes the number of bikes
      * @param m denotes the number of cars
-     * @return an integer arraylist containing the answers
+     * @return an integer list containing the answers
      */
-    public static ArrayList<Integer> solve(ArrayList<Integer> n, ArrayList<Integer> m) {
+    public static List<Integer> solve(List<Integer> n, List<Integer> m) {
         // Implement this method
 
         return new ArrayList<>();
     }
 
-    /**
-     * Takes care of the problem's input and output.
-     */
+    /** Takes care of the problem's input and output. */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         StringBuilder stringBuilder = new StringBuilder();
         int cases = scanner.nextInt();
-
         ArrayList<Integer> n = new ArrayList<>();
         ArrayList<Integer> m = new ArrayList<>();
 
@@ -35,11 +33,9 @@ public class Main {
             m.add(scanner.nextInt());
         }
 
-        ArrayList<Integer> answers = solve(n, m);
+        List<Integer> answers = solve(n, m);
 
-        for (int answer: answers) {
-            stringBuilder.append(String.format("%d%n", answer));
-        }
+        answers.forEach(e -> stringBuilder.append(String.format("%d%n", e)));
 
         System.out.print(stringBuilder);
     }

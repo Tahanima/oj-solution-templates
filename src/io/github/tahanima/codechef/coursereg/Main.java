@@ -1,6 +1,7 @@
 package io.github.tahanima.codechef.coursereg;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -12,22 +13,19 @@ public class Main {
      * @param n denotes the sizes of the friend groups
      * @param m denotes the capacities of the courses
      * @param k denotes the number of students already registered
-     * @return a string arraylist containing the answers
+     * @return a string list containing the answers
      */
-    public static ArrayList<String> solve(ArrayList<Integer> n, ArrayList<Integer> m, ArrayList<Integer> k) {
+    public static List<String> solve(List<Integer> n, List<Integer> m, List<Integer> k) {
         // Implement this method
 
         return new ArrayList<>();
     }
 
-    /**
-     * Takes care of the problem's input and output.
-     */
+    /** Takes care of the problem's input and output. */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         StringBuilder stringBuilder = new StringBuilder();
         int cases = scanner.nextInt();
-
         ArrayList<Integer> n = new ArrayList<>();
         ArrayList<Integer> m = new ArrayList<>();
         ArrayList<Integer> k = new ArrayList<>();
@@ -38,11 +36,9 @@ public class Main {
             k.add(scanner.nextInt());
         }
 
-        ArrayList<String> answers = solve(n, m, k);
+        List<String> answers = solve(n, m, k);
 
-        for (String answer: answers) {
-            stringBuilder.append(String.format("%s%n", answer));
-        }
+        answers.forEach(e -> stringBuilder.append(String.format("%s%n", e)));
 
         System.out.print(stringBuilder);
     }

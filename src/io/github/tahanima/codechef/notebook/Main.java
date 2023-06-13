@@ -1,6 +1,7 @@
 package io.github.tahanima.codechef.notebook;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -10,9 +11,9 @@ public class Main {
 
     /**
      * @param n denotes kgs of pulps
-     * @return an integer arraylist containing the answers
+     * @return an integer list containing the answers
      */
-    public static ArrayList<Integer> solve(ArrayList<Integer> n) {
+    public static List<Integer> solve(List<Integer> n) {
         // Implement this method
 
         return new ArrayList<>();
@@ -25,18 +26,15 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         StringBuilder stringBuilder = new StringBuilder();
         int cases = scanner.nextInt();
-
         ArrayList<Integer> n = new ArrayList<>();
 
         while (cases-- > 0) {
             n.add(scanner.nextInt());
         }
 
-        ArrayList<Integer> answers = solve(n);
+        List<Integer> answers = solve(n);
 
-        for (int answer: answers) {
-            stringBuilder.append(String.format("%d%n", answer));
-        }
+        answers.forEach(e -> stringBuilder.append(String.format("%d%n", e)));
 
         System.out.print(stringBuilder);
     }

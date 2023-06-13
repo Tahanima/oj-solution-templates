@@ -1,6 +1,7 @@
 package io.github.tahanima.codechef.jcoins;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -11,22 +12,19 @@ public class Main {
     /**
      * @param x denotes the coins of 10 rupees
      * @param y denotes the coins of 5 rupees
-     * @return an integer arraylist containing the answers
+     * @return an integer list containing the answers
      */
-    public static ArrayList<Integer> solve(ArrayList<Integer> x, ArrayList<Integer> y) {
+    public static List<Integer> solve(List<Integer> x, List<Integer> y) {
         // Implement this method
 
         return new ArrayList<>();
     }
 
-    /**
-     * Takes care of the problem's input and output.
-     */
+    /** Takes care of the problem's input and output. */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         StringBuilder stringBuilder = new StringBuilder();
         int cases = scanner.nextInt();
-
         ArrayList<Integer> x = new ArrayList<>();
         ArrayList<Integer> y = new ArrayList<>();
 
@@ -35,11 +33,9 @@ public class Main {
             y.add(scanner.nextInt());
         }
 
-        ArrayList<Integer> answers = solve(x, y);
+        List<Integer> answers = solve(x, y);
 
-        for (int answer: answers) {
-            stringBuilder.append(String.format("%d%n", answer));
-        }
+        answers.forEach(e -> stringBuilder.append(String.format("%d%n", e)));
 
         System.out.print(stringBuilder);
     }
